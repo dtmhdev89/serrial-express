@@ -18,6 +18,8 @@
   "homepage": "https://github.com/dtmhdev89/serrial-express#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "express-handlebars": "^4.0.0",
     "nodemon": "^2.0.2"
   }
 }
