@@ -1,0 +1,23 @@
+{
+  "name": "serrial-express",
+  "version": "1.0.0",
+  "description": "sample express js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtmhdev89/serrial-express.git"
+  },
+  "author": "hieudev89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtmhdev89/serrial-express/issues"
+  },
+  "homepage": "https://github.com/dtmhdev89/serrial-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
